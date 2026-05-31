@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project proposal",
+    "description": "Write the final project proposal document",
+    "priority": 1,
+    "status": "pending",
+    "category": "work",
+    "estimated_duration": 120,
+    "due_date": "2024-02-01T17:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 2,
+    "title": "Team standup meeting",
+    "description": "Daily team standup",
+    "priority": 2,
+    "status": "completed",
+    "category": "work",
+    "estimated_duration": 15,
+    "due_date": "2024-01-30T10:00:00",
+    "completed_at": "2024-01-30T10:15:00",
+    "user_id": 1
+  },
+  {
+    "id": 3,
+    "title": "Code review session",
+    "description": "Review pull requests from team",
+    "priority": 2,
+    "status": "in_progress",
+    "category": "work",
+    "estimated_duration": 60,
+    "due_date": "2024-01-30T14:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 4,
+    "title": "Gym workout",
+    "description": "Morning gym session",
+    "priority": 3,
+    "status": "pending",
+    "category": "health",
+    "estimated_duration": 60,
+    "due_date": "2024-01-31T07:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 5,
+    "title": "Read documentation",
+    "description": "Read API documentation",
+    "priority": 3,
+    "status": "pending",
+    "category": "study",
+    "estimated_duration": 45,
+    "due_date": "2024-02-02T20:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 6,
+    "title": "Client call",
+    "description": "Weekly client check-in",
+    "priority": 1,
+    "status": "pending",
+    "category": "work",
+    "estimated_duration": 45,
+    "due_date": "2024-01-31T11:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 7,
+    "title": "Email catch-up",
+    "description": "Process inbox",
+    "priority": 2,
+    "status": "pending",
+    "category": "work",
+    "estimated_duration": 30,
+    "due_date": "2024-01-30T09:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 8,
+    "title": "Design mockups",
+    "description": "Create UI mockups for new feature",
+    "priority": 1,
+    "status": "pending",
+    "category": "work",
+    "estimated_duration": 180,
+    "due_date": "2024-02-05T17:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 9,
+    "title": "Write unit tests",
+    "description": "Add unit tests for new module",
+    "priority": 2,
+    "status": "pending",
+    "category": "work",
+    "estimated_duration": 90,
+    "due_date": "2024-02-03T17:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 10,
+    "title": "Personal planning",
+    "description": "Weekly personal planning",
+    "priority": 3,
+    "status": "pending",
+    "category": "personal",
+    "estimated_duration": 30,
+    "due_date": "2024-01-31T20:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 11,
+    "title": "Bug fixes",
+    "description": "Fix critical bugs reported by QA",
+    "priority": 1,
+    "status": "in_progress",
+    "category": "work",
+    "estimated_duration": 120,
+    "due_date": "2024-01-30T16:00:00",
+    "user_id": 1
+  },
+  {
+    "id": 12,
+    "title": "Learn React hooks",
+    "description": "Study advanced React hooks patterns",
+    "priority": 2,
+    "status": "pending",
+    "category": "study",
+    "estimated_duration": 60,
+    "due_date": "2024-02-01T19:00:00",
+    "user_id": 1
+  }
+]
